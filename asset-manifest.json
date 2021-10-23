@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/newpandas/static/css/main.14cfc051.chunk.css",
+    "main.js": "/newpandas/static/js/main.e218afb1.chunk.js",
+    "main.js.map": "/newpandas/static/js/main.e218afb1.chunk.js.map",
+    "runtime-main.js": "/newpandas/static/js/runtime-main.f112f8e4.js",
+    "runtime-main.js.map": "/newpandas/static/js/runtime-main.f112f8e4.js.map",
+    "static/js/2.c1bbc083.chunk.js": "/newpandas/static/js/2.c1bbc083.chunk.js",
+    "static/js/2.c1bbc083.chunk.js.map": "/newpandas/static/js/2.c1bbc083.chunk.js.map",
+    "static/js/3.12534b25.chunk.js": "/newpandas/static/js/3.12534b25.chunk.js",
+    "static/js/3.12534b25.chunk.js.map": "/newpandas/static/js/3.12534b25.chunk.js.map",
+    "index.html": "/newpandas/index.html",
+    "static/css/main.14cfc051.chunk.css.map": "/newpandas/static/css/main.14cfc051.chunk.css.map",
+    "static/js/2.c1bbc083.chunk.js.LICENSE.txt": "/newpandas/static/js/2.c1bbc083.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/newpandas/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f112f8e4.js",
+    "static/js/2.c1bbc083.chunk.js",
+    "static/css/main.14cfc051.chunk.css",
+    "static/js/main.e218afb1.chunk.js"
+  ]
+}
